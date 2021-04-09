@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/First-website/static/css/main.2a8478e3.chunk.css",
-    "main.js": "/First-website/static/js/main.4d63af3b.chunk.js",
-    "main.js.map": "/First-website/static/js/main.4d63af3b.chunk.js.map",
+    "main.js": "/First-website/static/js/main.c01177eb.chunk.js",
+    "main.js.map": "/First-website/static/js/main.c01177eb.chunk.js.map",
     "runtime-main.js": "/First-website/static/js/runtime-main.331dc165.js",
     "runtime-main.js.map": "/First-website/static/js/runtime-main.331dc165.js.map",
-    "static/js/2.88e05468.chunk.js": "/First-website/static/js/2.88e05468.chunk.js",
-    "static/js/2.88e05468.chunk.js.map": "/First-website/static/js/2.88e05468.chunk.js.map",
+    "static/js/2.412cfad2.chunk.js": "/First-website/static/js/2.412cfad2.chunk.js",
+    "static/js/2.412cfad2.chunk.js.map": "/First-website/static/js/2.412cfad2.chunk.js.map",
     "index.html": "/First-website/index.html",
     "static/css/main.2a8478e3.chunk.css.map": "/First-website/static/css/main.2a8478e3.chunk.css.map",
-    "static/js/2.88e05468.chunk.js.LICENSE.txt": "/First-website/static/js/2.88e05468.chunk.js.LICENSE.txt",
+    "static/js/2.412cfad2.chunk.js.LICENSE.txt": "/First-website/static/js/2.412cfad2.chunk.js.LICENSE.txt",
     "static/media/hero.css": "/First-website/static/media/img-1.53f48437.jpg",
     "static/media/App.css": "/First-website/static/media/img-8.fabdf94d.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.331dc165.js",
-    "static/js/2.88e05468.chunk.js",
+    "static/js/2.412cfad2.chunk.js",
     "static/css/main.2a8478e3.chunk.css",
-    "static/js/main.4d63af3b.chunk.js"
+    "static/js/main.c01177eb.chunk.js"
   ]
 }
