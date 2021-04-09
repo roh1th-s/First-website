@@ -9,10 +9,16 @@ import Products from './components/pages/products';
 import Services from './components/pages/services';
 import Signup from './components/pages/signup';
 
+
+import packagejson from '../package.json'
+
+const repoUrlSplit = packagejson.homepage.split('/')
+const repoName = repoUrlSplit[repoUrlSplit.length - 1];
+
 function App() {
 	return (
 		<> 
-		<Router>
+		<Router basename={repoName}>
 			<Navbar />
 			<Switch>
 				<Route path="/" exact component={Home}/> 
